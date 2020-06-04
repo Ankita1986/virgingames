@@ -1,0 +1,63 @@
+2020-05-31 13:05:64 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-05-31 13:05:752 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-05-31 13:05:358 INFO  BrowserSelector :27 - Launching Chrome Browser
+2020-05-31 15:05:433 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:139 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:502 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:707 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:75 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 15:05:277 INFO  BrowserSelector :32 - Launching IE Browser
+2020-05-31 15:05:858 INFO  BrowserSelector :32 - Launching IE Browser
+2020-05-31 15:05:317 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 15:05:275 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:353 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:771 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:716 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:41 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 15:05:52 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:986 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 15:05:174 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:351 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 15:05:656 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:64 INFO  BrowserSelector :32 - Launching IE Browser
+2020-05-31 15:05:96 INFO  BrowserSelector :32 - Launching IE Browser
+2020-05-31 15:05:618 INFO  BrowserSelector :32 - Launching IE Browser
+2020-05-31 15:05:560 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:10 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 15:05:346 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:157 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 15:05:689 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 15:05:678 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 16:05:944 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 16:05:298 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 16:05:600 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 16:05:303 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:882 INFO  BrowserSelector :28 - Launching Firefox Browser
+2020-05-31 17:05:643 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:254 INFO  BrowserSelector :32 - Launching IE Browser
+2020-05-31 17:05:39 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:316 INFO  LoginPage :34 - Entering emailId : abc123@yahoomail.comin the email field[[ChromeDriver: chrome on WINDOWS (b1f301d848bb5be6f81ee023a97bcd2c)] -> xpath: //input[@placeholder='Username or Email']]
+2020-05-31 17:05:141 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:403 INFO  LoginPage :34 - Entering emailId : abc123@yahoomail.comin the email field[[ChromeDriver: chrome on WINDOWS (e165c662fdcce71ff570440a7e283baf)] -> xpath: //input[@placeholder='Username or Email']]
+2020-05-31 17:05:421 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:707 INFO  LoginPage :34 - Entering emailId : abc123@yahoomail.comin the email field[[ChromeDriver: chrome on WINDOWS (5d88c4cae1488413cc014dd04c7981b6)] -> xpath: //input[@placeholder='Username or Email']]
+2020-05-31 17:05:673 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:943 INFO  LoginPage :34 - Entering emailId : abc123@yahoomail.comin the email field[[ChromeDriver: chrome on WINDOWS (c152211ec4757e2c049ef88925a001da)] -> xpath: //input[@placeholder='Username or Email']]
+2020-05-31 17:05:77 INFO  LoginPage :40 - Entering password : Tajmahal06in the password field[[ChromeDriver: chrome on WINDOWS (c152211ec4757e2c049ef88925a001da)] -> xpath: //input[@id='field-password']]
+2020-05-31 17:05:172 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (c152211ec4757e2c049ef88925a001da)] -> xpath: //button[@class='button button-login']]
+2020-05-31 17:05:374 INFO  LoginPage :51 - Getting error message from : [[ChromeDriver: chrome on WINDOWS (c152211ec4757e2c049ef88925a001da)] -> xpath: //div[@class='output']]
+2020-05-31 17:05:586 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:838 INFO  LoginPage :34 - Entering emailId : abc123@yahoomail.comin the email field[[ChromeDriver: chrome on WINDOWS (654119ff0f1ba265d10d0117b565a468)] -> xpath: //input[@placeholder='Username or Email']]
+2020-05-31 17:05:02 INFO  LoginPage :40 - Entering password : Tajmahal06in the password field[[ChromeDriver: chrome on WINDOWS (654119ff0f1ba265d10d0117b565a468)] -> xpath: //input[@id='field-password']]
+2020-05-31 17:05:121 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (654119ff0f1ba265d10d0117b565a468)] -> xpath: //button[@class='button button-login']]
+2020-05-31 17:05:332 INFO  LoginPage :51 - Getting error message from : [[ChromeDriver: chrome on WINDOWS (654119ff0f1ba265d10d0117b565a468)] -> xpath: //div[@class='output']]
+2020-05-31 17:05:876 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:104 INFO  LoginPage :34 - Entering emailId : abc1@yahoomail.comin the email field[[ChromeDriver: chrome on WINDOWS (8da9cfee8a3aca95d9f9b98c5e34cf5d)] -> xpath: //input[@placeholder='Username or Email']]
+2020-05-31 17:05:262 INFO  LoginPage :40 - Entering password : Tajmahal07in the password field[[ChromeDriver: chrome on WINDOWS (8da9cfee8a3aca95d9f9b98c5e34cf5d)] -> xpath: //input[@id='field-password']]
+2020-05-31 17:05:381 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (8da9cfee8a3aca95d9f9b98c5e34cf5d)] -> xpath: //button[@class='button button-login']]
+2020-05-31 17:05:595 INFO  LoginPage :51 - Getting error message from : [[ChromeDriver: chrome on WINDOWS (8da9cfee8a3aca95d9f9b98c5e34cf5d)] -> xpath: //div[@class='output']]
+2020-05-31 17:05:772 INFO  HomePage :23 - Clicking on login link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-05-31 17:05:03 INFO  LoginPage :34 - Entering emailId : abc12@yahoomail.comin the email field[[ChromeDriver: chrome on WINDOWS (d8f02d7ba52e3d40b266d98ec9351da3)] -> xpath: //input[@placeholder='Username or Email']]
+2020-05-31 17:05:147 INFO  LoginPage :40 - Entering password : Tajmahal08in the password field[[ChromeDriver: chrome on WINDOWS (d8f02d7ba52e3d40b266d98ec9351da3)] -> xpath: //input[@id='field-password']]
+2020-05-31 17:05:259 INFO  LoginPage :46 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (d8f02d7ba52e3d40b266d98ec9351da3)] -> xpath: //button[@class='button button-login']]
+2020-05-31 17:05:516 INFO  LoginPage :51 - Getting error message from : [[ChromeDriver: chrome on WINDOWS (d8f02d7ba52e3d40b266d98ec9351da3)] -> xpath: //div[@class='output']]

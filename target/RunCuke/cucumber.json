@@ -1,0 +1,405 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6846488800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "User should not login successfully with invalid credentials",
+        "description": "",
+        "id": "login-functionality;user-should-not-login-successfully-with-invalid-credentials;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 629362600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 114364000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Virgingames homepage",
+            "match": {
+              "location": "LoginTestSteps.iAmOnVirgingamesHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 24285860800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 249262700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter email \"abc123@yahoomail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123@yahoomail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginTestSteps.iEnterEmail(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 162971300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password \"Tajmahal06\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tajmahal06",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginTestSteps.iEnterPassword(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 117655400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 259451600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should see the error message \"Please try again, your username/email or password has not been recognised\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Please try again, your username/email or password has not been recognised",
+                  "offset": 32
+                }
+              ],
+              "location": "LoginTestSteps.iShouldSeeTheErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5705848200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "User should not login successfully with invalid credentials",
+        "description": "",
+        "id": "login-functionality;user-should-not-login-successfully-with-invalid-credentials;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 648919800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 27200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Virgingames homepage",
+            "match": {
+              "location": "LoginTestSteps.iAmOnVirgingamesHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 24153251500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 225633300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter email \"abc1@yahoomail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc1@yahoomail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginTestSteps.iEnterEmail(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 156501800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password \"Tajmahal07\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tajmahal07",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginTestSteps.iEnterPassword(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 117694300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 237486100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should see the error message \"Please try again, your username/email or password has not been recognised\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Please try again, your username/email or password has not been recognised",
+                  "offset": 32
+                }
+              ],
+              "location": "LoginTestSteps.iShouldSeeTheErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5658874000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "User should not login successfully with invalid credentials",
+        "description": "",
+        "id": "login-functionality;user-should-not-login-successfully-with-invalid-credentials;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 642691900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 23400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Virgingames homepage",
+            "match": {
+              "location": "LoginTestSteps.iAmOnVirgingamesHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 23839105300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on login link",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 229642000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter email \"abc12@yahoomail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc12@yahoomail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginTestSteps.iEnterEmail(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 142076900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password \"Tajmahal08\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tajmahal08",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginTestSteps.iEnterPassword(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 111625200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on login button",
+            "match": {
+              "location": "LoginTestSteps.iClickOnLoginButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 298604900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should see the error message \"Please try again, your username/email or password has not been recognised\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Please try again, your username/email or password has not been recognised",
+                  "offset": 32
+                }
+              ],
+              "location": "LoginTestSteps.iShouldSeeTheErrorMessage(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login functionality",
+    "description": "As a User I want to login into Virgingames website",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/virgingames/resources/featurefile/login.feature"
+  }
+]
